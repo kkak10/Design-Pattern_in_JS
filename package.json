@@ -1,0 +1,25 @@
+{
+  "name": "design_pattern_in_js",
+  "version": "1.0.0",
+  "description": "## Pattern List 1.Composite Pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkak10/Design-Pattern_in_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkak10/Design-Pattern_in_JS/issues"
+  },
+  "homepage": "https://github.com/kkak10/Design-Pattern_in_JS#readme",
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "webpack": "^1.13.1"
+  }
+}
